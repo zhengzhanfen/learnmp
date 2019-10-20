@@ -5,7 +5,6 @@ Page({
    * 页面的初始数据
    */
   data: {
-<<<<<<< HEAD
 
   },
 
@@ -64,13 +63,4 @@ Page({
   onShareAppMessage: function () {
 
   }
-=======
-    cat: ['衣服', '裤子', '鞋子']
-  },
-  handleTabClick(event){
-    console.log(event)
-  }
-  
-  
->>>>>>> tab-control
 })
