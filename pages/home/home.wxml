@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 <!--pages/home/home.wxml-->
 <text>pages/home/home.wxml</text>
+=======
+<!-- <w-tab-control titles="{{['衣服','裤子','鞋子']}}"/> -->
+<w-tab-control titles="{{cat}}"
+               bind:itemclick="handleTabClick"/>
+>>>>>>> tab-control

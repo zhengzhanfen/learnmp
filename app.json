@@ -1,6 +1,18 @@
 {
   "pages": [
+<<<<<<< HEAD
     "pages/home/home",
     "pages/about/about"
   ]
+=======
+    "pages/home/home"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+>>>>>>> tab-control
 }
