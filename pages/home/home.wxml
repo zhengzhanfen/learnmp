@@ -1,4 +1,8 @@
 <!--pages/home/home.wxml-->
+<<<<<<< HEAD
 <w-swiper list="{{banners}}"/>
 <w-recommend recommends="{{recommends}}"/>
 <w-popular/>
+=======
+<text>pages/home/home.wxml</text>
+>>>>>>> 6065e5c5dc0cce77ad6fcb75b9f0f5634271c092
