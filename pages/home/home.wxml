@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<w-swiper list="{{banners}}"/>
+<w-recommend recommends="{{recommends}}"/>
+<w-popular/>
